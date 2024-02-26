@@ -1,0 +1,9 @@
+{
+  "domain": "us01-pbx-eks01-sub1-ucs-nlb-n-401275db2e53eee7.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 102027
+    }
+  ]
+}

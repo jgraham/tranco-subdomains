@@ -1,0 +1,9 @@
+{
+  "domain": "prod-usm-saas-updateserver-a859c11e9134e3f0.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 982134
+    }
+  ]
+}

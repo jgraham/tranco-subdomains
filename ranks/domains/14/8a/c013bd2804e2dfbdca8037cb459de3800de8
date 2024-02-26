@@ -1,0 +1,9 @@
+{
+  "domain": "ethos831-prod-va6-k8s-p2-0-1441adb32924a8d3.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 484407
+    }
+  ]
+}

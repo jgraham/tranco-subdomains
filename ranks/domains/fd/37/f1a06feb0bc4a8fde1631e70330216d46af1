@@ -1,0 +1,9 @@
+{
+  "domain": "prod-pixel-collector-vpc-1438270207.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 383607
+    }
+  ]
+}

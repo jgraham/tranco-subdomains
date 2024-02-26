@@ -1,0 +1,9 @@
+{
+  "domain": "prod-wingman-b-1112672840.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 673914
+    }
+  ]
+}

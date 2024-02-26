@@ -1,0 +1,9 @@
+{
+  "domain": "emqx-all-06028ec423ccd073.elb.ap-southeast-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 643726
+    }
+  ]
+}

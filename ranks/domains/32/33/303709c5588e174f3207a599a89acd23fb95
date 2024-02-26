@@ -1,0 +1,9 @@
+{
+  "domain": "dualstack.srta-bpr-dedup-ingress-prod-560-958937635.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 993592
+    }
+  ]
+}

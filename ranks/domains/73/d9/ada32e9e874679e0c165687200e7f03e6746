@@ -1,0 +1,9 @@
+{
+  "domain": "cmp-shared-prod-public-1241256992.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 630260
+    }
+  ]
+}

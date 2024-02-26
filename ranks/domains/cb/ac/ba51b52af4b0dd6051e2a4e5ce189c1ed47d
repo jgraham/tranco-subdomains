@@ -1,0 +1,9 @@
+{
+  "domain": "mpki-ocsp.digicert.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 190181
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "iperf2.ring-iperf3-us-west-2.prod.ring.net",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 330722
+    }
+  ]
+}

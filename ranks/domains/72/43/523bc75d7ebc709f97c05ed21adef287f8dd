@@ -1,0 +1,9 @@
+{
+  "domain": "k8s-kong-kongprox-156b6f54a5-1812105515.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 376542
+    }
+  ]
+}

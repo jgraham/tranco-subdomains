@@ -1,0 +1,9 @@
+{
+  "domain": "hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 456405
+    }
+  ]
+}

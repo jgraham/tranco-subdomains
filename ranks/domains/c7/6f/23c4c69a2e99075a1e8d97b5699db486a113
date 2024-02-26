@@ -1,0 +1,9 @@
+{
+  "domain": "hem-sync-prod-lb-7374702.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 674082
+    }
+  ]
+}

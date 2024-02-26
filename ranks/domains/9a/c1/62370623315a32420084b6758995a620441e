@@ -1,0 +1,9 @@
+{
+  "domain": "k8s-coreingress-4c43ae9cb2-1150216512.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 930449
+    }
+  ]
+}

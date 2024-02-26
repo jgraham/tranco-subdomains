@@ -1,0 +1,9 @@
+{
+  "domain": "k8s-clusterwidealb-98a78844ee-237907544.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 504043
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "k8s-gdproductionhp-5e554b72ec-747530213.eu-west-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 560850
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "proxy-nlb-prod-us-west-2-v5-ac4e52c97755301b.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 635140
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "wsus2eastprod.blob.core.windows.net",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 888111
+    }
+  ]
+}

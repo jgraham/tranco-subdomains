@@ -1,0 +1,9 @@
+{
+  "domain": "hw-prod-pub-alb-245537193.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 935951
+    }
+  ]
+}

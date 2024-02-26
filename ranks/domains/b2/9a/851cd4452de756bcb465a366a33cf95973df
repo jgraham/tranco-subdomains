@@ -1,0 +1,9 @@
+{
+  "domain": "salserver-prod-alb-370783969.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 538045
+    }
+  ]
+}

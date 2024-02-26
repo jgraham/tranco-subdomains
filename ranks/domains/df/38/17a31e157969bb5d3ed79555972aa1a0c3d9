@@ -1,0 +1,9 @@
+{
+  "domain": "apiproxy-device-prod-nlb-2-76887c7bbd7a4697.elb.eu-west-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 151874
+    }
+  ]
+}

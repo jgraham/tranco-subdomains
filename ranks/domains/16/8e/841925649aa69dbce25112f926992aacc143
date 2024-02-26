@@ -1,0 +1,9 @@
+{
+  "domain": "us-east-1-prod-swarm-general-ext-1479449028.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 598328
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "ocsp.serverid.telesec.de",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 357683
+    }
+  ]
+}

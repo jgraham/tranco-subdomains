@@ -1,0 +1,9 @@
+{
+  "domain": "ecs-prod-web-public-1693595150.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 366626
+    }
+  ]
+}

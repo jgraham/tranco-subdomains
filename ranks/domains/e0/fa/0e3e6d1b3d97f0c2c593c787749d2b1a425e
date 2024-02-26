@@ -1,0 +1,9 @@
+{
+  "domain": "production-ts-events-lb-1271095106.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 385479
+    }
+  ]
+}

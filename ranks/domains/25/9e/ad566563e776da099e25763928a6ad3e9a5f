@@ -1,0 +1,9 @@
+{
+  "domain": "pla-prod-sea-sb-ns-ingest-02.servicebus.windows.net",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 540598
+    }
+  ]
+}

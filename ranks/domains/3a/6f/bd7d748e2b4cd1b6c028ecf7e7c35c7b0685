@@ -1,0 +1,9 @@
+{
+  "domain": "alb-api-public-shard0-559796157.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 462419
+    }
+  ]
+}

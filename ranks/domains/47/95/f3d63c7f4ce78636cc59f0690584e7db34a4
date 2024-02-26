@@ -1,0 +1,9 @@
+{
+  "domain": "rbroker-nlb-1cfdac0d983cead5.elb.us-east-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 689349
+    }
+  ]
+}

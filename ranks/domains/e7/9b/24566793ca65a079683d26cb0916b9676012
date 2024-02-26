@@ -1,0 +1,9 @@
+{
+  "domain": "er-prod-lb-ats-eu-central-1-1941174701.eu-central-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 762178
+    }
+  ]
+}

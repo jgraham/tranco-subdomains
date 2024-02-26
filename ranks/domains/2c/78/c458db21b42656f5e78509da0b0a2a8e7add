@@ -1,0 +1,9 @@
+{
+  "domain": "tungsten-prod-6be615f4a108ddf7.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 181383
+    }
+  ]
+}

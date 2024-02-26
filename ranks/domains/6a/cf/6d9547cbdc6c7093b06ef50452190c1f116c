@@ -1,0 +1,9 @@
+{
+  "domain": "coordinator-te11-prod-1309892249.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 345306
+    }
+  ]
+}

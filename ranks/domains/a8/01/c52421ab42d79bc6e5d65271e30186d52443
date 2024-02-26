@@ -1,0 +1,9 @@
+{
+  "domain": "ssp-prod-traffic-mgr-es-lp-beacon-eastus.trafficmanager.net",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 214242
+    }
+  ]
+}

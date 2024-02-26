@@ -1,0 +1,9 @@
+{
+  "domain": "ddd-prod-use2-eventhub-ns.servicebus.windows.net",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 516673
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "aore-main-ha-r-nlb-92a8669305c17948.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 238044
+    }
+  ]
+}

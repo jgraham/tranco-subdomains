@@ -1,0 +1,9 @@
+{
+  "domain": "production-ecsloadbalancer-943638809.eu-central-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 948228
+    }
+  ]
+}

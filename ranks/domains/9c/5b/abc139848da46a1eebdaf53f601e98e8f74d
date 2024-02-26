@@ -1,0 +1,9 @@
+{
+  "domain": "authority-default-nlb-dbf8100c078f5188.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 600521
+    }
+  ]
+}

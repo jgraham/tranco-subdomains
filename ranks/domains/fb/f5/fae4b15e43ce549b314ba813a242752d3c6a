@@ -1,0 +1,9 @@
+{
+  "domain": "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 85389
+    }
+  ]
+}

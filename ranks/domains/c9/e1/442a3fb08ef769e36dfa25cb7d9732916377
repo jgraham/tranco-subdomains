@@ -1,0 +1,9 @@
+{
+  "domain": "prod-e1-shield-app-alb-v1-120202974.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 663101
+    }
+  ]
+}

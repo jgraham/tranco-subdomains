@@ -1,0 +1,9 @@
+{
+  "domain": "d1-hitch-nlb-360be683c5f2457b.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 564752
+    }
+  ]
+}

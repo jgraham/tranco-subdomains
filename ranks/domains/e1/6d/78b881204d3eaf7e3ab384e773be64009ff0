@@ -1,0 +1,9 @@
+{
+  "domain": "crl.rootca1.amazontrust.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 256649
+    }
+  ]
+}

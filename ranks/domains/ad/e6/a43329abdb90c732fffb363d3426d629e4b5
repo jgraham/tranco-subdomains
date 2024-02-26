@@ -1,0 +1,9 @@
+{
+  "domain": "prod-green-proxy-elb-1376423322.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 391068
+    }
+  ]
+}

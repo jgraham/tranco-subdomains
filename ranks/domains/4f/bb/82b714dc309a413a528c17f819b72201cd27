@@ -1,0 +1,9 @@
+{
+  "domain": "wvd-eventhubs-ncus-prod.servicebus.windows.net",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 294396
+    }
+  ]
+}

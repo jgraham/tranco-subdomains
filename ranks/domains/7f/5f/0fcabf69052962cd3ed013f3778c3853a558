@@ -1,0 +1,9 @@
+{
+  "domain": "ingress-sticky-us3-eaa1552843be9bd6.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 956505
+    }
+  ]
+}

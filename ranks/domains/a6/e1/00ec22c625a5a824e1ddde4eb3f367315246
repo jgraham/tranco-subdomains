@@ -1,0 +1,9 @@
+{
+  "domain": "http-intake.logs.datadoghq.eu",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 100123
+    }
+  ]
+}

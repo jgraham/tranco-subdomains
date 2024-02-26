@@ -1,0 +1,9 @@
+{
+  "domain": "acme-v02.api.letsencrypt.org",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 235132
+    }
+  ]
+}

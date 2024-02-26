@@ -1,0 +1,9 @@
+{
+  "domain": "apiproxy-logging-s1-4a8c8a852b854f84.elb.us-east-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 66775
+    }
+  ]
+}

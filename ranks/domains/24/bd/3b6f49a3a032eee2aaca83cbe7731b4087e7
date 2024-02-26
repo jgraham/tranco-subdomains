@@ -1,0 +1,9 @@
+{
+  "domain": "apiproxy-nrdp-prod-nlb-2-42101415231301e4.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 270056
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "alb-logs-http-shard2-1771652727.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 321664
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "collector-lb-229737671.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 621076
+    }
+  ]
+}

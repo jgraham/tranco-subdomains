@@ -1,0 +1,9 @@
+{
+  "domain": "npute-prd-c-b12b7212bb77b16d.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 581522
+    }
+  ]
+}

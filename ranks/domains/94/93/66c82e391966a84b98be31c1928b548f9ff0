@@ -1,0 +1,9 @@
+{
+  "domain": "prod-chat-nlb-103ce9797df8c41d.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-25",
+      "rank": 570019
+    }
+  ]
+}
