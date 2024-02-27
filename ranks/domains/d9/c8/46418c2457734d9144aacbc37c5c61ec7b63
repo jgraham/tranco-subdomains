@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-albpublicprod-21168c2ede-467285986.eu-central-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 729802
-    }
-  ]
-}

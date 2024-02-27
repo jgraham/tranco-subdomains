@@ -1,0 +1,9 @@
+{
+  "domain": "prod-lb-9-1476932994.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 365960
+    }
+  ]
+}

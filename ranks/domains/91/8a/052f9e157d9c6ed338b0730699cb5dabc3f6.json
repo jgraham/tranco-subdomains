@@ -1,0 +1,9 @@
+{
+  "domain": "prod-emqtt-lc-nike-1574073765.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 796728
+    }
+  ]
+}

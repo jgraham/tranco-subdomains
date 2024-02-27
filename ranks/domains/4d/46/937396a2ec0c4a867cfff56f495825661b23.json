@@ -1,0 +1,9 @@
+{
+  "domain": "prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 143273
+    }
+  ]
+}

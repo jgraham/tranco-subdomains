@@ -1,9 +1,0 @@
-{
-  "domain": "nlb-sonicwall-ca7808995f6c3e60.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 706905
-    }
-  ]
-}

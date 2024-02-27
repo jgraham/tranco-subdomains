@@ -1,9 +1,0 @@
-{
-  "domain": "pla-prod-wcu-sb-ns-ingest-01.servicebus.windows.net",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 106615
-    }
-  ]
-}

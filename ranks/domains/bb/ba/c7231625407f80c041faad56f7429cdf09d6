@@ -1,9 +1,0 @@
-{
-  "domain": "prod-dp-data-events-api-c01-1683509729.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 462185
-    }
-  ]
-}

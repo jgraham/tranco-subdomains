@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-cronus-cronus0s-6fcf628a42-5d6f32117ebdc05a.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 204629
-    }
-  ]
-}

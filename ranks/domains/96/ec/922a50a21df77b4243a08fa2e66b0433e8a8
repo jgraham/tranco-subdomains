@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-api-gateway-prod-2053076586.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 681195
-    }
-  ]
-}

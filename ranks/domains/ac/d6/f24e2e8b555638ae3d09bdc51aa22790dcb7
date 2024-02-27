@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-prodlocationresol-5ebacf42ab-1326525527.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 509771
-    }
-  ]
-}

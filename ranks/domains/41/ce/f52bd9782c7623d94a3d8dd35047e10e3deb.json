@@ -1,0 +1,9 @@
+{
+  "domain": "util-backend-nlb-prod-5e649807f6740f66.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 723614
+    }
+  ]
+}

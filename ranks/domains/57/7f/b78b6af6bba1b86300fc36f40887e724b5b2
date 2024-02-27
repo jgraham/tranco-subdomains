@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-peptoprod-86587b6651-1201959626.us-west-2.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 356788
-    }
-  ]
-}

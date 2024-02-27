@@ -1,0 +1,9 @@
+{
+  "domain": "fe-nlb-core-prod-py2-23f2deaa4db3f458.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 915975
+    }
+  ]
+}

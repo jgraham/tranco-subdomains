@@ -37,7 +37,7 @@ def write_domain(date: str, output_dir: str, domain: str, rank: int):
     path_parts = get_domain_path_parts(domain)
     output_path = os.path.join(output_dir, *path_parts[:2])
     os.makedirs(output_path, exist_ok=True)
-    output_file = os.path.join(output_path, path_parts[-1])
+    output_file = os.path.join(output_path, path_parts[-1]) + ".json"
     if os.path.exists(output_file):
         with open(output_file) as f:
             data = json.load(f)

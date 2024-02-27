@@ -1,0 +1,9 @@
+{
+  "domain": "prod-ztna-browser-enforcement-b2e112ed5ef47b34.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 995986
+    }
+  ]
+}

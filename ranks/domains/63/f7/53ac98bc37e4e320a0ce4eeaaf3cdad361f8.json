@@ -1,0 +1,9 @@
+{
+  "domain": "janus-prod-lb-797133918.us-east-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 325378
+    }
+  ]
+}

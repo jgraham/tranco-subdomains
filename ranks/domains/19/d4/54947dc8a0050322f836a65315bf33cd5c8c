@@ -1,9 +1,0 @@
-{
-  "domain": "nlb-pub-use1-pixels-prod-2abfa75a6fd14cca.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 447321
-    }
-  ]
-}

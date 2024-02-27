@@ -1,9 +1,0 @@
-{
-  "domain": "nlb-external-provcs-b4eb602d91cf3c92.elb.us-west-2.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 771662
-    }
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "domain": "alb-metrics-agent-shard1-770518637.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 600321
-    }
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "domain": "atera-agent-heartbeat-cus.servicebus.windows.net",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 125500
-    }
-  ]
-}

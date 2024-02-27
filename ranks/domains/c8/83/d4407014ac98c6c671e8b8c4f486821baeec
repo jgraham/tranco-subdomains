@@ -1,9 +1,0 @@
-{
-  "domain": "sms-service-login-prod-nlb-c7d28d03e473be93.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 737634
-    }
-  ]
-}

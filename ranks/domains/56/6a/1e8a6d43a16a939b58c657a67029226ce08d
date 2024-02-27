@@ -1,9 +1,0 @@
-{
-  "domain": "alb-logs-http-replay-pub-s0-1657748904.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 167086
-    }
-  ]
-}

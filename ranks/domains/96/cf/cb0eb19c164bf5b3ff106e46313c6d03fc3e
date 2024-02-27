@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-apigatew-emissary-b8161c4564-826843425.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 341982
-    }
-  ]
-}

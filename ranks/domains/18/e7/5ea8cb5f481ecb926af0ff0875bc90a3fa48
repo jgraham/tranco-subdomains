@@ -1,9 +1,0 @@
-{
-  "domain": "adserver-logmodule-prod-nlb-v16-877ea2b26076512e.elb.eu-central-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 536458
-    }
-  ]
-}

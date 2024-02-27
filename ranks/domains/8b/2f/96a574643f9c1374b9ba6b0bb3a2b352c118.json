@@ -1,0 +1,9 @@
+{
+  "domain": "prod-fireball-bouncing-lb-1089769116.eu-west-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 288726
+    }
+  ]
+}

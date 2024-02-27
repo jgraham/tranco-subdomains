@@ -1,9 +1,0 @@
-{
-  "domain": "prod-bi-fluentd-kds-alb-60052424.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 420071
-    }
-  ]
-}

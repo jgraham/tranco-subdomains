@@ -1,0 +1,9 @@
+{
+  "domain": "haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 359580
+    }
+  ]
+}

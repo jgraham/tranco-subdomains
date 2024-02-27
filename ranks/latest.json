@@ -1,11 +1,13 @@
 {
-  "list_id": "Z32QG",
+  "list_id": "XJ5QN",
   "available": true,
   "failed": false,
-  "download": "https://tranco-list.eu/download/Z32QG/1000000",
-  "created_on": "2024-02-25T22:00:01.982864",
+  "download": "https://tranco-list.eu/download/XJ5QN/1000000",
+  "created_on": "2024-02-26T22:00:02.178101",
   "configuration": {
-    "filterTLD": "false",
+    "startDate": "2024-01-28",
+    "endDate": "2024-02-26",
+    "listPrefix": "1000000",
     "providers": [
       "crux",
       "farsight",
@@ -13,9 +15,7 @@
       "radar",
       "umbrella"
     ],
-    "endDate": "2024-02-25",
-    "startDate": "2024-01-27",
-    "combinationMethod": "dowdall",
-    "listPrefix": "1000000"
+    "filterTLD": "false",
+    "combinationMethod": "dowdall"
   }
 }

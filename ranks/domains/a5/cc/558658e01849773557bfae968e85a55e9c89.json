@@ -1,0 +1,9 @@
+{
+  "domain": "sg-nlb-external-821e304fa18e0d8b.elb.ap-southeast-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 660817
+    }
+  ]
+}

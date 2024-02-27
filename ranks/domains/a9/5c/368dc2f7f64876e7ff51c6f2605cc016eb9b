@@ -1,9 +1,0 @@
-{
-  "domain": "prod-nap-nlb-pr-ue1-7927e8c735a0e690.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 926623
-    }
-  ]
-}

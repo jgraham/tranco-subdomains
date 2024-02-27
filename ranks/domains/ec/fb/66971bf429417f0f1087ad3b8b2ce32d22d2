@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-life360m-prodmqtt-f0f05e875f-a95086c89e47c4e5.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 326559
-    }
-  ]
-}

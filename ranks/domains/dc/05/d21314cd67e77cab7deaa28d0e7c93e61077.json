@@ -1,0 +1,9 @@
+{
+  "domain": "ingress-sticky-haproxy-eu-da5b7868dc470a9a.elb.eu-west-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 864649
+    }
+  ]
+}

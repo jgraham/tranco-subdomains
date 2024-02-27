@@ -1,9 +1,0 @@
-{
-  "domain": "ocsp.e2m01.amazontrust.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 91002
-    }
-  ]
-}

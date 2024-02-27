@@ -1,9 +1,0 @@
-{
-  "domain": "k8s-kong-ingressm-f7dd4674d7-809695199.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 566652
-    }
-  ]
-}

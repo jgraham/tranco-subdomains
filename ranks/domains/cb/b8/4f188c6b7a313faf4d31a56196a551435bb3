@@ -1,9 +1,0 @@
-{
-  "domain": "prd-agent-haproxy-b20d9869679d351a.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 234811
-    }
-  ]
-}

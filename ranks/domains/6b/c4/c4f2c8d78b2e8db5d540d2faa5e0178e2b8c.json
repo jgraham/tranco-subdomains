@@ -1,0 +1,9 @@
+{
+  "domain": "wl-prd-1-csp-nlb-264a749130f6d932.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 835385
+    }
+  ]
+}

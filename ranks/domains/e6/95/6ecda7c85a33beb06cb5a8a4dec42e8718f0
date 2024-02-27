@@ -1,9 +1,0 @@
-{
-  "domain": "pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 162808
-    }
-  ]
-}

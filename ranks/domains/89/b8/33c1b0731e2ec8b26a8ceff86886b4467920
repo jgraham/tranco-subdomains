@@ -1,9 +1,0 @@
-{
-  "domain": "event-log-producer-alb-1487800978.eu-west-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 340580
-    }
-  ]
-}

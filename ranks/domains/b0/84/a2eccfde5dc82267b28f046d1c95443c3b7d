@@ -1,9 +1,0 @@
-{
-  "domain": "alb-logs-http-rum-pub-s0-1171131448.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 57959
-    }
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "domain": "nginx-http-byoip.ha-splash.use.production.k8s.ikarem.io",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 400853
+    }
+  ]
+}

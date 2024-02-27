@@ -1,0 +1,9 @@
+{
+  "domain": "arc-preprod-reverseproxy-cbfb82271de77ab8.elb.us-east-1.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 643236
+    }
+  ]
+}

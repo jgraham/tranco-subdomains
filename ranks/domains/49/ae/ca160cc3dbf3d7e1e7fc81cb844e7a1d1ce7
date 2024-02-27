@@ -1,9 +1,0 @@
-{
-  "domain": "turnnlb-d76454ac48d20c1e.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 401200
-    }
-  ]
-}

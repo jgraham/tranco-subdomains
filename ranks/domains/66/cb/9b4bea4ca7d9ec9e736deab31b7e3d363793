@@ -1,9 +1,0 @@
-{
-  "domain": "datarouter-svc-prod06-pub-ak-1156843745.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 412626
-    }
-  ]
-}

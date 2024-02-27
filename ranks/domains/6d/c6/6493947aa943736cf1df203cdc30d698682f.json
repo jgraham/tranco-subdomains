@@ -1,0 +1,9 @@
+{
+  "domain": "lightswitch-svc-prod-pub-live-1441910896.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 258304
+    }
+  ]
+}

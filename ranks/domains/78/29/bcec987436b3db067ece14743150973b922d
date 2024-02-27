@@ -1,9 +1,0 @@
-{
-  "domain": "xsp-nlb-cc05dc6dc7c21241.elb.us-east-1.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 358789
-    }
-  ]
-}

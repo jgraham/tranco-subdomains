@@ -1,0 +1,9 @@
+{
+  "domain": "round-robin-prod-lb-138589030.us-west-2.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 900394
+    }
+  ]
+}

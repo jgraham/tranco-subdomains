@@ -1,9 +1,0 @@
-{
-  "domain": "prod-usw2-recording-playback.s3.us-west-2.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 611971
-    }
-  ]
-}

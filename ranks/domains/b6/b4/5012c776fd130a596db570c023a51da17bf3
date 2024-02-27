@@ -1,9 +1,0 @@
-{
-  "domain": "apiproxy-website-nlb-prod-2-e98cb8cf33ff3581.elb.us-west-2.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 225929
-    }
-  ]
-}

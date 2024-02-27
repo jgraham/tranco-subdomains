@@ -1,9 +1,0 @@
-{
-  "domain": "kube-prod-04-elb.batch.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 343665
-    }
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "domain": "dualstack.apiproxy-prod-sharded-1-484932810.eu-west-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 406850
+    }
+  ]
+}

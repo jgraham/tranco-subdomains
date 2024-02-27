@@ -1,9 +1,0 @@
-{
-  "domain": "prod-bidd-bidderlb-app-lb2-700781402.us-east-1.elb.amazonaws.com",
-  "ranks": [
-    {
-      "date": "2024-02-25",
-      "rank": 683643
-    }
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "domain": "pcpucs-prod-nlb-2168a9467d8966e6.elb.us-west-2.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 231716
+    }
+  ]
+}

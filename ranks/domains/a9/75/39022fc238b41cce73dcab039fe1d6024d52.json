@@ -1,0 +1,9 @@
+{
+  "domain": "prod-events-api-fargate-1674193885.us-east-1.elb.amazonaws.com",
+  "ranks": [
+    {
+      "date": "2024-02-26",
+      "rank": 394699
+    }
+  ]
+}
