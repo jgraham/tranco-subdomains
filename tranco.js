@@ -7,3 +7,25 @@ async function getTrancoUrl(domain) {
   const scriptUrl = new URL(document.currentScript.src);
   return `${scriptUrl.protocol}://${scriptUrl.hostname}/ranks/domains/${sha1.slice(0,2)}/${sha1.slice(2,4)}/${sha1.slice(4)}`;
 }
+
+async function rankUrl(url) {
+  if (!url.includes("://")) {
+    url = `https://${url}`;
+  }
+  const parsedUrl = new URL(url);
+  let targetDomain = parsedUrl.host;
+  let rank = null;
+  while (targetDomain.includes(".")) {
+    const domainRankUrl = await getTrancoUrl(targetDomain);
+    const resp = await fetch(domainRankUrl);
+    const data = await resp.json();
+    // TODO: check if this is actually correct for the latest date
+    if (data && data.ranks.length) {
+      rank = data.ranks[0].rank;
+      break;
+    }
+    const [first, ...rest] = targetDomain.split(".");
+    targetDomain = rest.join(".");
+  }
+  return {rank, rankedDomain: rank ? targetDomain : parsedUrl.host};
+}
