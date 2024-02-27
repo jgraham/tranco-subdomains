@@ -2,7 +2,7 @@ const trancoScriptSrc = new URL(document.currentScript.src);
 
 async function getTrancoUrl(domain) {
   const msg = new TextEncoder().encode(domain);
-  const hashBuffer = await crypto.subtle.digest("SHA-256", msg);
+  const hashBuffer = await crypto.subtle.digest("SHA-1", msg);
   const sha1 = Array.from(new Uint8Array(hashBuffer))
     .map((b) => b.toString(16).padStart(2, "0"))
     .join("");
@@ -21,17 +21,16 @@ async function rankUrl(url) {
     tried.push(targetDomain);
     const domainRankUrl = await getTrancoUrl(targetDomain);
     const resp = await fetch(domainRankUrl);
-    if (resp.status === 404) {
-      continue;
-    } else if (resp.status !== 200) {
+    if (resp.status === 200) {
+      const data = await resp.json();
+      // TODO: check if this is actually correct for the latest date
+      if (data && data.ranks.length) {
+        rank = data.ranks[0].rank;
+        break;
+      }
+    } else if (resp.status !== 404) {
       console.error(`Failed to load ${domainRankUrl}`, resp);
       throw new Error(resp);
-    }
-    const data = await resp.json();
-    // TODO: check if this is actually correct for the latest date
-    if (data && data.ranks.length) {
-      rank = data.ranks[0].rank;
-      break;
     }
     const [first, ...rest] = targetDomain.split(".");
     targetDomain = rest.join(".");
