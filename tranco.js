@@ -16,9 +16,17 @@ async function rankUrl(url) {
   const parsedUrl = new URL(url);
   let targetDomain = parsedUrl.host;
   let rank = null;
+  const tried = [];
   while (targetDomain.includes(".")) {
+    tried.push(targetDomain);
     const domainRankUrl = await getTrancoUrl(targetDomain);
     const resp = await fetch(domainRankUrl);
+    if (resp.status === 404) {
+      continue;
+    } else if (resp.status !== 200) {
+      console.error(`Failed to load ${domainRankUrl}`, resp);
+      throw new Error(resp);
+    }
     const data = await resp.json();
     // TODO: check if this is actually correct for the latest date
     if (data && data.ranks.length) {
@@ -27,6 +35,9 @@ async function rankUrl(url) {
     }
     const [first, ...rest] = targetDomain.split(".");
     targetDomain = rest.join(".");
+  }
+  if (rank === null) {
+    console.log(`Failed to get domain rank; tried domains ${tried.join(", ")}`);
   }
   return {rank, rankedDomain: rank ? targetDomain : parsedUrl.host};
 }
